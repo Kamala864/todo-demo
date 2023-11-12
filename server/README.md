@@ -7,13 +7,17 @@ Certainly! Below is a formatted version of your README file:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Kamala864/demo-project.git
+git clone https://github.com/Kamala864/todo-demo.git
 ```
 
 ### 2. Change Directory
 
 ```bash
-cd demo-project
+for server
+cd server
+for clint
+cd todo-client
+
 ```
 
 ### 3. Install Dependencies
